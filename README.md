@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓iku | mcs, incoming polito | ce student<br>👩🏻‍💻co-founder youth4eu<br>🚀aspiring data scientist and entrepreneur<br>🎯currently studying machine learning
+🎓 polito | compeng<br>👩🏻‍💻co-founder youth4eu<br>🚀aspiring data scientist and entrepreneur<br>🎯currently studying machine learning
 
 
 ## 🌐 Socials:
